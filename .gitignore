@@ -1,2 +1,2 @@
-.pycache
-.auth
+__pycache__/
+auth.py
